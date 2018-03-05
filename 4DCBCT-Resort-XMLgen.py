@@ -1,3 +1,7 @@
+# This code will read in the *.HIS file, XML file, and the *.SORT.txt file
+# It outputs sorted/binned *.HIS and new XML files
+
+
 import csv
 import xml.etree.ElementTree as ET
 import numpy as np
