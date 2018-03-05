@@ -1,3 +1,6 @@
+# This code will read in the *.HIS file, XML file, and the *.SORT.txt file
+# It outputs sorted/binned *.HIS and new XML files
+
 import csv
 import xml.etree.ElementTree as ET
 import numpy as np
@@ -5,6 +8,8 @@ import array
 import shutil
 import os
 #------------------File Locations-------------
+# Change the hisFileLoc to the location of the *.HIS file Projections
+
 hisFileLoc= '/Users/mwaqar/4DCBCT Project/img_1.3.46.423632.1354522017101323933437.72/'
 sortFileLoc = hisFileLoc+'Reconstruction/1.3.46.423632.1354522017101323933437.72.10.13.2017191452671.SCAN.Sort.txt'
 xmlFileLoc= hisFileLoc+'_Frames.xml'
