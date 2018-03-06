@@ -11,7 +11,7 @@ import os
 #------------------File Locations-------------
 # Change the hisFileLoc to the location of the *.HIS file Projections
 
-hisFileLoc= '/Users/mwaqar/4DCBCT Project/img_1.3.46.423632.1354522017101323933437.72/'
+hisFileLoc= '/Users/mwaqar/4DCBCT_Project/img_1.3.46.423632.1354522017101323933437.72/'
 sortFileLoc = hisFileLoc+'Reconstruction/1.3.46.423632.1354522017101323933437.72.10.13.2017191452671.SCAN.Sort.txt'
 xmlFileLoc= hisFileLoc+'_Frames.xml'
 sortedFileLoc = hisFileLoc+'sorted'

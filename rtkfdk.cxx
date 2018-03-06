@@ -19,7 +19,8 @@
 
 // This code is a modification of the default RTKFDK.cxx code.
 // It includes a HU correction and a rotation from RAi to ARI
-// To Compilie this, repleace the the RTKFDK.cxx default built code with this code
+// To Compilie this, repleace the RTKFDK.cxx default built code with this code
+// The default code is found at ~/RTK/application/rtkfdk.cxx
 // Along with the rtkfdk.ggo file with companying *.ggo file
 
 #include "rtkfdk_ggo.h"
