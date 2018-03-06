@@ -23,3 +23,6 @@ option "dvf"       - "Input 4D DVF"              string    no
 section "Hounsfeild correction"
 option "scale"     - "multiplier to pixel value (1.0 disables it)"  double                       no   default="1.0"
 option "shift"     - "shift applied to pixel value (0.0 disables it)"  double                       no   default="0.0"
+
+section "Filters"
+option "MFradius"     - "Median Image Filter Radius (0.0 disables it)"  double                       no   default="0.0"

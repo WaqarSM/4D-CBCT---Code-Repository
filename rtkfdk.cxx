@@ -226,6 +226,13 @@ shiftFilter->SetShift( args_info.shift_arg );
 shiftFilter->Update();
  pfeldkamp = shiftFilter->GetOutput();
 
+ //--------------------------------------Median Image Filter -----------------------------------
+typedef itk::MedianImageFilter<CPUOutputImageType, CPUOutputImageType > FilterType;
+FilterType::Pointer medianFilter = FilterType::New();
+medianFilter->SetRadius(args_info.MFradius_arg);
+medianFilter->SetInput(pfeldkamp);
+pfeldkamp = medianFilter->GetOutput();
+
 
 
   // Streaming depending on streaming capability of writer
