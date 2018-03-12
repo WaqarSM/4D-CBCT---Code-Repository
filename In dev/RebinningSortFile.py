@@ -7,6 +7,7 @@ import numpy as np
 import array
 import shutil
 import os
+import matplotlib.pyplot as plt
 #------------------File Locations-------------
 # Change the hisFileLoc to the location of the *.HIS file Projections
 
@@ -56,8 +57,16 @@ for i in range(len(col3)):
             newCol4.append(j)
 
 print newCol4
+print (newCol4.count(0))
 
 with open('filename.SORT.txt', 'wb+') as csvfile1:
     spamwriter = csv.writer(csvfile1, delimiter='\t',quotechar='|', quoting=csv.QUOTE_MINIMAL)
     for i in range(len(col3)):
      spamwriter.writerow([col1[i], col2[i], col3[i], newCol4[i], col5[i]])
+
+
+
+# num_bins = 20
+# n, bins, patches = plt.hist(newCol4, num_bins, facecolor='blue')
+# n, bins, patches = plt.hist(col4, num_bins, facecolor='red')
+# plt.show()
