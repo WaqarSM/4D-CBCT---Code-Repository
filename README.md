@@ -4,8 +4,7 @@
 This is the repository for the 4D Cone Beam CT Image quality and parameter optimizing Project. Carleton Unversity Physics 2018.
 Supervisors: A.Elsayed, E.Heath, T.Xu 
 
-Sample data can be found at: ____________________________________________
-
+Sample data can be found at: sftp://tyr.physics.carleton.ca/data/data068/mwaqar/Sample%20Data/img_1.3.46.423632.1354522017101323295146.75%20copy.zip
 
 This project uses tools from the Reconstruction Tool Kit (RTK) consortium. To install it on a Linux based system run Auto-RTK-ITK-VTK-Install.sh
 This will also install the Insight Segmentation and Registration Toolkit (ITK) and Visualization Toolkit (VTK)
