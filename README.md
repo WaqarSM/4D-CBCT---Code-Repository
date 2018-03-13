@@ -1,5 +1,4 @@
 # 4DCBCT-Code-Repository
-4D CBCT - Code Repository
 
 This is the repository for the 4D Cone Beam CT Image quality and parameter optimizing Project. Carleton Unversity Physics 2018.
 Supervisors: A.Elsayed, E.Heath, T.Xu 
