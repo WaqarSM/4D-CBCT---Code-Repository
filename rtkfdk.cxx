@@ -16,13 +16,13 @@
  *
  *=========================================================================*/
 
-
+/*=======================Comments by Waqar Muhammad (WM) ========================
 // This code is a modification of the default RTKFDK.cxx code.
-// It includes a HU correction and a rotation from RAi to ARI
-// To Compilie this, repleace the RTKFDK.cxx default built code with this code
+// It includes a HU correction and a rotation from RAI to ARI
+// To Compile this, replace the RTKFDK.cxx default built code with this code
 // The default code is found at ~/RTK/application/rtkfdk.cxx
 // Along with the rtkfdk.ggo file with companying *.ggo file
-
+=========================================================================*/
 #include "rtkfdk_ggo.h"
 #include "rtkGgoFunctions.h"
 #include "rtkConfiguration.h"
@@ -207,7 +207,7 @@ int main(int argc, char * argv[])
 #endif
 
 
-//-------------------------------Orienting Image------------------------------------------
+//-------------------------------Orienting Image------------------------------------------ (WM)
 
  itk::OrientImageFilter<CPUOutputImageType,CPUOutputImageType>::Pointer orienter = itk::OrientImageFilter<CPUOutputImageType,CPUOutputImageType>::New();
  orienter->SetGivenCoordinateOrientation(itk::SpatialOrientation::ITK_COORDINATE_ORIENTATION_RAI); // deprecated
@@ -216,7 +216,7 @@ int main(int argc, char * argv[])
  orienter->Update();
  pfeldkamp = orienter->GetOutput();
 
-//-------------------------------HU Image Filter------------------------------------------
+//-------------------------------HU Image Filter------------------------------------------ (WM)
 typedef itk::ShiftScaleImageFilter< CPUOutputImageType, CPUOutputImageType >  ShiftScaleFilterType;
 
 ShiftScaleFilterType::Pointer shiftFilter= ShiftScaleFilterType::New();
@@ -226,7 +226,7 @@ shiftFilter->SetShift( args_info.shift_arg );
 shiftFilter->Update();
  pfeldkamp = shiftFilter->GetOutput();
 
- //--------------------------------------Median Image Filter -----------------------------------
+ //--------------------------------------Median Image Filter ----------------------------------- (WM)
 typedef itk::MedianImageFilter<CPUOutputImageType, CPUOutputImageType > FilterType;
 FilterType::Pointer medianFilter = FilterType::New();
 medianFilter->SetRadius(args_info.MFradius_arg);

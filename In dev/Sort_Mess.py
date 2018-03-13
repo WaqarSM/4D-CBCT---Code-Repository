@@ -1,3 +1,9 @@
+# Author: Waqar Muhammad - Carleton Physics 2018
+# Project Repository: https://github.com/WaqarSM/4DCBCT-Code-Repository
+# Written in: Python
+#
+#This code re-bins the *.SORT.txt file for higher number of bins
+#In developement! 
 
 import csv
 import xml.etree.ElementTree as ET

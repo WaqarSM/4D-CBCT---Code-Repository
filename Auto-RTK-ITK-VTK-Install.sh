@@ -1,3 +1,9 @@
+# Author: Waqar Muhammad - Carleton Physics 2018
+# Written in: Bash
+# Project Repository: https://github.com/WaqarSM/4DCBCT-Code-Repository
+#
+# Disclamer: Part of this code was writen by Danny Lessio for the RTK consortium.
+
 
 if [ ! -d "./RTK-ITK-VTK" ]; then
   #making a directory to host RTK ITK and VTK
