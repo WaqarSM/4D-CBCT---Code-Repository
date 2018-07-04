@@ -10,16 +10,18 @@
 # Output:
 # 	 1 reconstruction location is set by RtkGeoOutLoc
 
+
+
 startTime=$(date +%s) #begins Main Timer
 # Note: Path location can not have any spaces.
-FileName=img_1.3.46.423632.14100020183160734486.17
-FileNum=17
-Dim=270 #Dimension in milimeters
+FileName=img_1.3.46.423632.1410002018315232436205.11
+FileNum=11_HUGOODER
+Dim=410 #Dimension in milimeters
 Space=1 #Spacing of Voxel
 SpaceZ=1 #Z spacing of Voxel
 
 
-
+		i=1
 		startTimeloop=$(date +%s) #Timer for Loop
 		echo "Phase being reconstructed $i"
     Phase=$i
@@ -49,12 +51,18 @@ SpaceZ=1 #Z spacing of Voxel
 		--regexp '.*.his' \
 		--output $ReconOut \
 		--verbose \
-		--spr=0.24 \
+		--spr=0.0 \
+		--hann=0.0\
+		--hannY=0.00 \
+		--scale=59737.15651\
+		--shift=-0.01461\
 		--dimension $Dim,$Dim,$Dim \
 		--spacing $Space,$Space,$Spaces
 		endTimeloop=$(date +%s) #Loop Timer
 		TotalTimeloop=$(( $endTimeloop - $startTimeloop )) #Loop Timer
 		echo Took $TotalTimloop
+
+
 
 endTime=$(date +%s) #Main Timer
 TotalTime=$(( $endTime - $startTime )) #Main Timer

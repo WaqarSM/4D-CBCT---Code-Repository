@@ -1,0 +1,458 @@
+[Command: /bin/bash '/Users/mwaqar/4DCBCT-Code-Repository/In dev/3D-Recon-DoubeLoop.sh']
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.00_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 3.17584 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.67689 s
+  Ramp filter: 75.3547 s
+  Backprojection: 131.429 s
+
+Took
+Total Time: 220
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.00_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.54767 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 5.95441 s
+  Ramp filter: 167.169 s
+  Backprojection: 115.196 s
+
+Took
+Total Time: 293
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.00_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.95798 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.13042 s
+  Ramp filter: 165.85 s
+  Backprojection: 112.834 s
+
+Took
+Total Time: 291
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.00_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.46193 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.06122 s
+  Ramp filter: 162.131 s
+  Backprojection: 110.318 s
+
+Took
+Total Time: 284
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.24_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.35372 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 5.79176 s
+  Ramp filter: 59.4962 s
+  Backprojection: 112.441 s
+
+Took
+Total Time: 183
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.24_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.64972 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.42747 s
+  Ramp filter: 181.374 s
+  Backprojection: 120.646 s
+
+Took
+Total Time: 315
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.24_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.4685 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.56318 s
+  Ramp filter: 164.992 s
+  Backprojection: 112.913 s
+
+Took
+Total Time: 290
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.24_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.90774 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.11269 s
+  Ramp filter: 178.018 s
+  Backprojection: 124.753 s
+
+Took
+Total Time: 316
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.5_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 3.29604 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.39534 s
+  Ramp filter: 64.7436 s
+  Backprojection: 123.772 s
+
+Took
+Total Time: 201
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.5_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.56522 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.82572 s
+  Ramp filter: 175.577 s
+  Backprojection: 126.756 s
+
+Took
+Total Time: 314
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.5_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.72944 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.91502 s
+  Ramp filter: 170.513 s
+  Backprojection: 124.497 s
+
+Took
+Total Time: 308
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.5_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.53507 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.25658 s
+  Ramp filter: 177.063 s
+  Backprojection: 124.049 s
+
+Took
+Total Time: 314
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.75_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.65497 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.2012 s
+  Ramp filter: 63.9364 s
+  Backprojection: 121.64 s
+
+Took
+Total Time: 197
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.75_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.91943 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.1123 s
+  Ramp filter: 189.116 s
+  Backprojection: 127.807 s
+
+Took
+Total Time: 330
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.75_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 3.07374 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.69246 s
+  Ramp filter: 172.816 s
+  Backprojection: 120.167 s
+
+Took
+Total Time: 306
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.75_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.86668 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.66461 s
+  Ramp filter: 168.597 s
+  Backprojection: 116.481 s
+
+Took
+Total Time: 297
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_2.40_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 5.66042 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.10277 s
+  Ramp filter: 74.4398 s
+  Backprojection: 128.843 s
+
+Took
+Total Time: 221
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_2.40_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.72525 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 10.0603 s
+  Ramp filter: 243.432 s
+  Backprojection: 136.434 s
+
+Took
+Total Time: 396
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_2.40_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.87731 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.59876 s
+  Ramp filter: 171.759 s
+  Backprojection: 117.851 s
+
+Took
+Total Time: 303
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_2.40_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.69068 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.31383 s
+  Ramp filter: 181.456 s
+  Backprojection: 121.059 s
+
+Took
+Total Time: 316
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_24.00_hann_0.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 3.06815 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.24374 s
+  Ramp filter: 65.6552 s
+  Backprojection: 123.961 s
+
+Took
+Total Time: 202
+Phase being reconstructed 1
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_24.00_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.33779 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 5.67512 s
+  Ramp filter: 137.097 s
+  Backprojection: 98.9589 s
+
+Took
+Total Time: 246
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_24.00_hann_1.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.56363 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 7.31216 s
+  Ramp filter: 181.425 s
+  Backprojection: 123.94 s
+
+Took
+Total Time: 318
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_24.00_hann_5.0_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+Reconstructing and writing... It took 2.57664 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 6.76086 s
+  Ramp filter: 173.06 s
+  Backprojection: 122.596 s
+
+Took
+Total Time: 308
+[Finished in 6769.534s]

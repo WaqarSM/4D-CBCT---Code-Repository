@@ -2,7 +2,7 @@
 # Written in: Bash
 # Project Repository: https://github.com/WaqarSM/4DCBCT-Code-Repository
 #
-# Disclamer: Part of this code was writen by Danny Lessio for the RTK consortium.
+# Disclaimer: Part of this code was written by Danny Lessio for the RTK consortium.
 
 
 if [ ! -d "./RTK-ITK-VTK" ]; then

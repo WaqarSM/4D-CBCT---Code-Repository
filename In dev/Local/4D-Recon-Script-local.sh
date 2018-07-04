@@ -12,23 +12,24 @@
 
 startTime=$(date +%s) #begins Main Timer
 # Note: Path location can not have any spaces.
-FileName=img_1.3.46.423632.1354522017101323295146.75 #DICOM_ID of directory
-FileNum=75 #Reconstruction idintifire
+FileName=img_1.3.46.423632.141000201831614516221.27 #DICOM_ID of directory
+FileNum=27 #Reconstruction idintifire
 Dim=270 #Dimension in milimeters
 Space=1 #Spacing of Voxel
 SpaceZ=1 #Z spacing of Voxel
 
-for (( i=0; i<=9; i++)) #Main Loop - Runs reconstruction on each binned phase
+for (( i=0; i<=0; i++)) #Main Loop - Runs reconstruction on each binned phase
 	do
 		startTimeloop=$(date +%s) #Timer for Loop
 		echo "Phase being reconstructed $i"
     Phase=$i
-    RTKbinLOC=/data/data068/mwaqar/ITK-RTK/RTK-bin/bin/elektaGeometry #Location of RTK-bin
-    IMGLOC=/data/data068/mwaqar/Sorted_4DCBCT_Data/$FileName/sorted/$Phase #Location of Binned *.HIS files
-    XMLLOC=/data/data068/mwaqar/Sorted_4DCBCT_Data/$FileName/sorted/$Phase/_Frames.xml # Location of Binned _Frame.XML
-    RtkGeoOutLoc=/data/data068/mwaqar/Sorted_4DCBCT_Data/$FileName/sorted/$Phase/elektaGeometry #Location of RTK geometry file
-    ReconName=$FileNum'_p'$Phase'_d'$Dim'_s'$Space'_sZ'$SpaceZ #Name of reconstructed file with Phase, dimension ,and spacing information.
-    ReconOut=/data/data068/mwaqar/Sorted_4DCBCT_Data/$FileName/sorted/good/$ReconName'spr_24.mha' #Location of reconstruction output
+		RTKbinLOC=/Users/mwaqar/RTK-bin/bin/elektaGeometry #Location of RTK-bin
+    IMGLOC=/Users/mwaqar/4DCBCT_Project/Expriment_2_data/$FileName/sorted/$Phase #Location of Binned *.HIS files
+    XMLLOC=/Users/mwaqar/4DCBCT_Project/Expriment_2_data/$FileName/sorted/$Phase/_Frames.xml # Location of Binned _Frame.XML
+    RtkGeoOutLoc=/Users/mwaqar/4DCBCT_Project/Expriment_2_data/$FileName/sorted/$Phase/elektaGeometry #Location of RTK geometry file
+    ReconName='3D_'$FileNum'_p'$Phase'_d'$Dim'_s'$Space'_sZ'$SpaceZ #Name of reconstructed file with Phase, dimension ,and spacing information.
+		mkdir /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/$FileName
+		ReconOut=/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/$FileName/$ReconName'.mha' #Location of reconstruction output
     echo 'RTK Bin location: ' $RTKbinLOC
     echo 'Projection source: '$IMGLOC
     echo 'XML File location : '$XMLLOC
@@ -36,19 +37,23 @@ for (( i=0; i<=9; i++)) #Main Loop - Runs reconstruction on each binned phase
     echo 'Recon output location: ' $ReconOut
 
 		echo ' --------------------Now Running RTK Elekta Geometry---------------------------'
-		/data/data068/mwaqar/ITK-RTK/RTK-bin/bin/rtkelektasynergygeometry \
+		/Users/mwaqar/RTK-bin/bin/rtkelektasynergygeometry \
 			--xml $XMLLOC \
 			--verbose \
 			-o $RtkGeoOutLoc
 		echo ' --------------------Now Running RTK FDK---------------------------------------'
-    /data/data068/mwaqar/ITK-RTK/RTK-bin/bin/rtkfdk \
+    /Users/mwaqar/RTK-bin/bin/rtkfdk \
       --lowmem \
       --geometry $RtkGeoOutLoc \
       --path $IMGLOC \
       --regexp '.*.his' \
       --output $ReconOut \
       --verbose \
-			--spr=0.24 \
+			--spr=0.0 \
+			--hann=0.8 \
+			--hannY=0.8 \
+			--scale=65536\
+			--shift=-0.015625\
       --spacing $Space,$Space,$SpaceZ \
       --dimension $Dim,$Dim,$Dim
 		endTimeloop=$(date +%s) #Loop Timer

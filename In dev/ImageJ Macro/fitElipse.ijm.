@@ -1,0 +1,178 @@
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p0_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p0_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p0_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p1_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p1_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p1_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p2_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p2_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p2_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p3_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p3_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p3_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+
+//
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p4_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p4_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p4_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p5_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p5_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p5_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p6_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p6_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p6_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p7_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p7_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p7_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p8_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p8_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p8_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+//
+
+run("Set Measurements...", "area mean standard center fit display redirect=None decimal=5");
+open("/Users/mwaqar/4DCBCT_Project/Expriment_2_recon/21/21_p9_d270_s1_sZ1spr_000_hann_080.mha");
+roiManager("Open", "/Users/mwaqar/4DCBCT-Code-Repository/In dev/ImageJ Macro/Tumor_Geo_fidel.roi");
+roiManager("Select", 0);
+run("Duplicate...", " ");
+selectWindow("21_p9_d270_s1_sZ1spr_000_hann_080.mha");
+close();
+selectWindow("21_p9_d270_s1_sZ1spr_000_hann_080-1.mha");
+setAutoThreshold("Default dark");
+//run("Threshold...");
+setAutoThreshold("Default dark");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+roiManager("Deselect");
+run("Analyze Particles...", "size=200-700 show=Ellipses display exclude clear include summarize add");
+
+

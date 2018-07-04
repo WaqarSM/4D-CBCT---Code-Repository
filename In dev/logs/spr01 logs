@@ -1,0 +1,1380 @@
+[Command: /bin/bash '/Users/mwaqar/4DCBCT-Code-Repository/In dev/3D-Recon-DoubeLoop.sh']
+Phase being reconstructed 1
+RTK Bin location:  /Users/mwaqar/RTK-bin/bin/elektaGeometry
+Projection source: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11
+XML File location : /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/_Frames.xml
+RTK Geo output location: /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry
+Recon output location:  /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11/sprTest/3D_11_68640_n0003725_spr_0.10_hann_0.8_d410_s1_sZ1.mha
+ --------------------Now Running RTK Elekta Geometry---------------------------
+mkdir: /Users/mwaqar/4DCBCT_Project/Expriment_2_recon/img_1.3.46.423632.1410002018315232436205.11: File exists
+ --------------------Now Running RTK FDK---------------------------------------
+Regular expression matches 340 file(s)...
+Reading geometry information from /Users/mwaqar/4DCBCT_Project/Expriment_2_data/img_1.3.46.423632.1410002018315232436205.11/elektaGeometry...
+smallestValue: 301  m_AirThreshold: 32000
+averageBehindPatient: 6906.53 SPR: 0.1
+ correction: 690.653
+m_NonNegativityConstraintThreshold20
+smallestValue: 309  m_AirThreshold: 32000
+averageBehindPatient: 6933.87 SPR: 0.1
+ correction: 693.387
+m_NonNegativityConstraintThreshold20
+smallestValue: 320  m_AirThreshold: 32000
+averageBehindPatient: 6943.53 SPR: 0.1
+ correction: 694.353
+m_NonNegativityConstraintThreshold20
+smallestValue: 317  m_AirThreshold: 32000
+averageBehindPatient: 6951.39 SPR: 0.1
+ correction: 695.139
+m_NonNegativityConstraintThreshold20
+smallestValue: 334  m_AirThreshold: 32000
+averageBehindPatient: 6976.18 SPR: 0.1
+ correction: 697.618
+m_NonNegativityConstraintThreshold20
+smallestValue: 327  m_AirThreshold: 32000
+averageBehindPatient: 7002.12 SPR: 0.1
+ correction: 700.212
+m_NonNegativityConstraintThreshold20
+smallestValue: 327  m_AirThreshold: 32000
+averageBehindPatient: 7006.49 SPR: 0.1
+ correction: 700.649
+m_NonNegativityConstraintThreshold20
+smallestValue: 325  m_AirThreshold: 32000
+averageBehindPatient: 7023.91 SPR: 0.1
+ correction: 702.391
+m_NonNegativityConstraintThreshold20
+smallestValue: 325  m_AirThreshold: 32000
+averageBehindPatient: 7036.36 SPR: 0.1
+ correction: 703.636
+m_NonNegativityConstraintThreshold20
+smallestValue: 321  m_AirThreshold: 32000
+averageBehindPatient: 7020.13 SPR: 0.1
+ correction: 702.013
+m_NonNegativityConstraintThreshold20
+smallestValue: 317  m_AirThreshold: 32000
+averageBehindPatient: 6953.38 SPR: 0.1
+ correction: 695.338
+m_NonNegativityConstraintThreshold20
+smallestValue: 310  m_AirThreshold: 32000
+averageBehindPatient: 6808.02 SPR: 0.1
+ correction: 680.802
+m_NonNegativityConstraintThreshold20
+smallestValue: 298  m_AirThreshold: 32000
+averageBehindPatient: 6482.76 SPR: 0.1
+ correction: 648.276
+m_NonNegativityConstraintThreshold20
+smallestValue: 305  m_AirThreshold: 32000
+averageBehindPatient: 6001 SPR: 0.1
+ correction: 600.1
+m_NonNegativityConstraintThreshold20
+smallestValue: 291  m_AirThreshold: 32000
+averageBehindPatient: 5262.04 SPR: 0.1
+ correction: 526.204
+m_NonNegativityConstraintThreshold20
+smallestValue: 280  m_AirThreshold: 32000
+averageBehindPatient: 5423.25 SPR: 0.1
+ correction: 542.325
+m_NonNegativityConstraintThreshold20
+smallestValue: 273  m_AirThreshold: 32000
+averageBehindPatient: 5981.83 SPR: 0.1
+ correction: 598.183
+m_NonNegativityConstraintThreshold20
+smallestValue: 281  m_AirThreshold: 32000
+averageBehindPatient: 5167.38 SPR: 0.1
+ correction: 516.738
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 5572.23 SPR: 0.1
+ correction: 557.223
+m_NonNegativityConstraintThreshold20
+smallestValue: 280  m_AirThreshold: 32000
+averageBehindPatient: 5527.1 SPR: 0.1
+ correction: 552.71
+m_NonNegativityConstraintThreshold20
+smallestValue: 283  m_AirThreshold: 32000
+averageBehindPatient: 5816.93 SPR: 0.1
+ correction: 581.693
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 5900.93 SPR: 0.1
+ correction: 590.093
+m_NonNegativityConstraintThreshold20
+smallestValue: 270  m_AirThreshold: 32000
+averageBehindPatient: 5887.93 SPR: 0.1
+ correction: 588.793
+m_NonNegativityConstraintThreshold20
+smallestValue: 270  m_AirThreshold: 32000
+averageBehindPatient: 5924.4 SPR: 0.1
+ correction: 592.44
+m_NonNegativityConstraintThreshold20
+smallestValue: 269  m_AirThreshold: 32000
+averageBehindPatient: 5974.95 SPR: 0.1
+ correction: 597.495
+m_NonNegativityConstraintThreshold20
+smallestValue: 266  m_AirThreshold: 32000
+averageBehindPatient: 6125.76 SPR: 0.1
+ correction: 612.576
+m_NonNegativityConstraintThreshold20
+smallestValue: 271  m_AirThreshold: 32000
+averageBehindPatient: 6363.29 SPR: 0.1
+ correction: 636.329
+m_NonNegativityConstraintThreshold20
+smallestValue: 263  m_AirThreshold: 32000
+averageBehindPatient: 6497.22 SPR: 0.1
+ correction: 649.722
+m_NonNegativityConstraintThreshold20
+smallestValue: 264  m_AirThreshold: 32000
+averageBehindPatient: 6473.35 SPR: 0.1
+ correction: 647.335
+m_NonNegativityConstraintThreshold20
+smallestValue: 255  m_AirThreshold: 32000
+averageBehindPatient: 6461.06 SPR: 0.1
+ correction: 646.106
+m_NonNegativityConstraintThreshold20
+smallestValue: 258  m_AirThreshold: 32000
+averageBehindPatient: 6452.52 SPR: 0.1
+ correction: 645.252
+m_NonNegativityConstraintThreshold20
+smallestValue: 260  m_AirThreshold: 32000
+averageBehindPatient: 6460.89 SPR: 0.1
+ correction: 646.089
+m_NonNegativityConstraintThreshold20
+smallestValue: 262  m_AirThreshold: 32000
+averageBehindPatient: 6459.84 SPR: 0.1
+ correction: 645.984
+m_NonNegativityConstraintThreshold20
+smallestValue: 253  m_AirThreshold: 32000
+averageBehindPatient: 6460.7 SPR: 0.1
+ correction: 646.07
+m_NonNegativityConstraintThreshold20
+smallestValue: 255  m_AirThreshold: 32000
+averageBehindPatient: 6463.4 SPR: 0.1
+ correction: 646.34
+m_NonNegativityConstraintThreshold20
+smallestValue: 247  m_AirThreshold: 32000
+averageBehindPatient: 6463.93 SPR: 0.1
+ correction: 646.393
+m_NonNegativityConstraintThreshold20
+smallestValue: 262  m_AirThreshold: 32000
+averageBehindPatient: 6471.38 SPR: 0.1
+ correction: 647.138
+m_NonNegativityConstraintThreshold20
+smallestValue: 260  m_AirThreshold: 32000
+averageBehindPatient: 6474.26 SPR: 0.1
+ correction: 647.426
+m_NonNegativityConstraintThreshold20
+smallestValue: 262  m_AirThreshold: 32000
+averageBehindPatient: 6481.25 SPR: 0.1
+ correction: 648.125
+m_NonNegativityConstraintThreshold20
+smallestValue: 263  m_AirThreshold: 32000
+averageBehindPatient: 6491.25 SPR: 0.1
+ correction: 649.125
+m_NonNegativityConstraintThreshold20
+smallestValue: 260  m_AirThreshold: 32000
+averageBehindPatient: 6498.67 SPR: 0.1
+ correction: 649.867
+m_NonNegativityConstraintThreshold20
+smallestValue: 263  m_AirThreshold: 32000
+averageBehindPatient: 6528.36 SPR: 0.1
+ correction: 652.836
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6536.04 SPR: 0.1
+ correction: 653.604
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6553.89 SPR: 0.1
+ correction: 655.389
+m_NonNegativityConstraintThreshold20
+smallestValue: 255  m_AirThreshold: 32000
+averageBehindPatient: 6575.1 SPR: 0.1
+ correction: 657.51
+m_NonNegativityConstraintThreshold20
+smallestValue: 255  m_AirThreshold: 32000
+averageBehindPatient: 6607.15 SPR: 0.1
+ correction: 660.715
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6656.99 SPR: 0.1
+ correction: 665.699
+m_NonNegativityConstraintThreshold20
+smallestValue: 254  m_AirThreshold: 32000
+averageBehindPatient: 6687.46 SPR: 0.1
+ correction: 668.746
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6708.75 SPR: 0.1
+ correction: 670.875
+m_NonNegativityConstraintThreshold20
+smallestValue: 259  m_AirThreshold: 32000
+averageBehindPatient: 6728.97 SPR: 0.1
+ correction: 672.897
+m_NonNegativityConstraintThreshold20
+smallestValue: 256  m_AirThreshold: 32000
+averageBehindPatient: 6742.44 SPR: 0.1
+ correction: 674.244
+m_NonNegativityConstraintThreshold20
+smallestValue: 251  m_AirThreshold: 32000
+averageBehindPatient: 6763.8 SPR: 0.1
+ correction: 676.38
+m_NonNegativityConstraintThreshold20
+smallestValue: 251  m_AirThreshold: 32000
+averageBehindPatient: 6770.51 SPR: 0.1
+ correction: 677.051
+m_NonNegativityConstraintThreshold20
+smallestValue: 251  m_AirThreshold: 32000
+averageBehindPatient: 6782.3 SPR: 0.1
+ correction: 678.23
+m_NonNegativityConstraintThreshold20
+smallestValue: 253  m_AirThreshold: 32000
+averageBehindPatient: 6790.92 SPR: 0.1
+ correction: 679.092
+m_NonNegativityConstraintThreshold20
+smallestValue: 256  m_AirThreshold: 32000
+averageBehindPatient: 6788.48 SPR: 0.1
+ correction: 678.848
+m_NonNegativityConstraintThreshold20
+smallestValue: 246  m_AirThreshold: 32000
+averageBehindPatient: 6755.26 SPR: 0.1
+ correction: 675.526
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6712.24 SPR: 0.1
+ correction: 671.224
+m_NonNegativityConstraintThreshold20
+smallestValue: 247  m_AirThreshold: 32000
+averageBehindPatient: 6698.36 SPR: 0.1
+ correction: 669.836
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6681.85 SPR: 0.1
+ correction: 668.185
+m_NonNegativityConstraintThreshold20
+smallestValue: 260  m_AirThreshold: 32000
+averageBehindPatient: 6653.58 SPR: 0.1
+ correction: 665.358
+m_NonNegativityConstraintThreshold20
+smallestValue: 251  m_AirThreshold: 32000
+averageBehindPatient: 6621.93 SPR: 0.1
+ correction: 662.193
+m_NonNegativityConstraintThreshold20
+smallestValue: 258  m_AirThreshold: 32000
+averageBehindPatient: 6583.96 SPR: 0.1
+ correction: 658.396
+m_NonNegativityConstraintThreshold20
+smallestValue: 262  m_AirThreshold: 32000
+averageBehindPatient: 6518.5 SPR: 0.1
+ correction: 651.85
+m_NonNegativityConstraintThreshold20
+smallestValue: 259  m_AirThreshold: 32000
+averageBehindPatient: 6479.77 SPR: 0.1
+ correction: 647.977
+m_NonNegativityConstraintThreshold20
+smallestValue: 265  m_AirThreshold: 32000
+averageBehindPatient: 6440.73 SPR: 0.1
+ correction: 644.073
+m_NonNegativityConstraintThreshold20
+smallestValue: 267  m_AirThreshold: 32000
+averageBehindPatient: 6397.51 SPR: 0.1
+ correction: 639.751
+m_NonNegativityConstraintThreshold20
+smallestValue: 264  m_AirThreshold: 32000
+averageBehindPatient: 6391.14 SPR: 0.1
+ correction: 639.114
+m_NonNegativityConstraintThreshold20
+smallestValue: 267  m_AirThreshold: 32000
+averageBehindPatient: 6353.01 SPR: 0.1
+ correction: 635.301
+m_NonNegativityConstraintThreshold20
+smallestValue: 264  m_AirThreshold: 32000
+averageBehindPatient: 6346.61 SPR: 0.1
+ correction: 634.661
+m_NonNegativityConstraintThreshold20
+smallestValue: 264  m_AirThreshold: 32000
+averageBehindPatient: 6349.11 SPR: 0.1
+ correction: 634.911
+m_NonNegativityConstraintThreshold20
+smallestValue: 263  m_AirThreshold: 32000
+averageBehindPatient: 6378.07 SPR: 0.1
+ correction: 637.807
+m_NonNegativityConstraintThreshold20
+smallestValue: 261  m_AirThreshold: 32000
+averageBehindPatient: 6383.98 SPR: 0.1
+ correction: 638.398
+m_NonNegativityConstraintThreshold20
+smallestValue: 258  m_AirThreshold: 32000
+averageBehindPatient: 6415.01 SPR: 0.1
+ correction: 641.501
+m_NonNegativityConstraintThreshold20
+smallestValue: 264  m_AirThreshold: 32000
+averageBehindPatient: 6463.24 SPR: 0.1
+ correction: 646.324
+m_NonNegativityConstraintThreshold20
+smallestValue: 255  m_AirThreshold: 32000
+averageBehindPatient: 6525.4 SPR: 0.1
+ correction: 652.54
+m_NonNegativityConstraintThreshold20
+smallestValue: 258  m_AirThreshold: 32000
+averageBehindPatient: 6594.61 SPR: 0.1
+ correction: 659.461
+m_NonNegativityConstraintThreshold20
+smallestValue: 259  m_AirThreshold: 32000
+averageBehindPatient: 6655 SPR: 0.1
+ correction: 665.5
+m_NonNegativityConstraintThreshold20
+smallestValue: 251  m_AirThreshold: 32000
+averageBehindPatient: 6705.13 SPR: 0.1
+ correction: 670.513
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 6748.52 SPR: 0.1
+ correction: 674.852
+m_NonNegativityConstraintThreshold20
+smallestValue: 250  m_AirThreshold: 32000
+averageBehindPatient: 6765.62 SPR: 0.1
+ correction: 676.562
+m_NonNegativityConstraintThreshold20
+smallestValue: 252  m_AirThreshold: 32000
+averageBehindPatient: 6797.18 SPR: 0.1
+ correction: 679.718
+m_NonNegativityConstraintThreshold20
+smallestValue: 247  m_AirThreshold: 32000
+averageBehindPatient: 6840.1 SPR: 0.1
+ correction: 684.01
+m_NonNegativityConstraintThreshold20
+smallestValue: 250  m_AirThreshold: 32000
+averageBehindPatient: 6895.79 SPR: 0.1
+ correction: 689.579
+m_NonNegativityConstraintThreshold20
+smallestValue: 250  m_AirThreshold: 32000
+averageBehindPatient: 6942.16 SPR: 0.1
+ correction: 694.216
+m_NonNegativityConstraintThreshold20
+smallestValue: 245  m_AirThreshold: 32000
+averageBehindPatient: 6947.56 SPR: 0.1
+ correction: 694.756
+m_NonNegativityConstraintThreshold20
+smallestValue: 247  m_AirThreshold: 32000
+averageBehindPatient: 6959.44 SPR: 0.1
+ correction: 695.944
+m_NonNegativityConstraintThreshold20
+smallestValue: 248  m_AirThreshold: 32000
+averageBehindPatient: 6973.2 SPR: 0.1
+ correction: 697.32
+m_NonNegativityConstraintThreshold20
+smallestValue: 245  m_AirThreshold: 32000
+averageBehindPatient: 6981.87 SPR: 0.1
+ correction: 698.187
+m_NonNegativityConstraintThreshold20
+smallestValue: 239  m_AirThreshold: 32000
+averageBehindPatient: 6985.87 SPR: 0.1
+ correction: 698.587
+m_NonNegativityConstraintThreshold20
+smallestValue: 243  m_AirThreshold: 32000
+averageBehindPatient: 6991.11 SPR: 0.1
+ correction: 699.111
+m_NonNegativityConstraintThreshold20
+smallestValue: 243  m_AirThreshold: 32000
+averageBehindPatient: 6991.97 SPR: 0.1
+ correction: 699.197
+m_NonNegativityConstraintThreshold20
+smallestValue: 240  m_AirThreshold: 32000
+averageBehindPatient: 6990.74 SPR: 0.1
+ correction: 699.074
+m_NonNegativityConstraintThreshold20
+smallestValue: 242  m_AirThreshold: 32000
+averageBehindPatient: 6993.16 SPR: 0.1
+ correction: 699.316
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 6948.41 SPR: 0.1
+ correction: 694.841
+m_NonNegativityConstraintThreshold20
+smallestValue: 246  m_AirThreshold: 32000
+averageBehindPatient: 6926.07 SPR: 0.1
+ correction: 692.607
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 6911.08 SPR: 0.1
+ correction: 691.108
+m_NonNegativityConstraintThreshold20
+smallestValue: 243  m_AirThreshold: 32000
+averageBehindPatient: 6915.28 SPR: 0.1
+ correction: 691.528
+m_NonNegativityConstraintThreshold20
+smallestValue: 227  m_AirThreshold: 32000
+averageBehindPatient: 6923.09 SPR: 0.1
+ correction: 692.309
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 6915.43 SPR: 0.1
+ correction: 691.543
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 6926.9 SPR: 0.1
+ correction: 692.69
+m_NonNegativityConstraintThreshold20
+smallestValue: 228  m_AirThreshold: 32000
+averageBehindPatient: 6926.02 SPR: 0.1
+ correction: 692.602
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 6935.89 SPR: 0.1
+ correction: 693.589
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 6947.58 SPR: 0.1
+ correction: 694.758
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 6966.28 SPR: 0.1
+ correction: 696.628
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 6982.89 SPR: 0.1
+ correction: 698.289
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 6987.62 SPR: 0.1
+ correction: 698.762
+m_NonNegativityConstraintThreshold20
+smallestValue: 222  m_AirThreshold: 32000
+averageBehindPatient: 7014.24 SPR: 0.1
+ correction: 701.424
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7067.94 SPR: 0.1
+ correction: 706.794
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7118.19 SPR: 0.1
+ correction: 711.819
+m_NonNegativityConstraintThreshold20
+smallestValue: 228  m_AirThreshold: 32000
+averageBehindPatient: 7176.02 SPR: 0.1
+ correction: 717.602
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7233.6 SPR: 0.1
+ correction: 723.36
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7277.04 SPR: 0.1
+ correction: 727.704
+m_NonNegativityConstraintThreshold20
+smallestValue: 230  m_AirThreshold: 32000
+averageBehindPatient: 7281.03 SPR: 0.1
+ correction: 728.103
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7287.57 SPR: 0.1
+ correction: 728.757
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7288.44 SPR: 0.1
+ correction: 728.844
+m_NonNegativityConstraintThreshold20
+smallestValue: 223  m_AirThreshold: 32000
+averageBehindPatient: 7286.58 SPR: 0.1
+ correction: 728.658
+m_NonNegativityConstraintThreshold20
+smallestValue: 223  m_AirThreshold: 32000
+averageBehindPatient: 7293.99 SPR: 0.1
+ correction: 729.399
+m_NonNegativityConstraintThreshold20
+smallestValue: 228  m_AirThreshold: 32000
+averageBehindPatient: 7293.67 SPR: 0.1
+ correction: 729.367
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7293.62 SPR: 0.1
+ correction: 729.362
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7297.01 SPR: 0.1
+ correction: 729.701
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7296.44 SPR: 0.1
+ correction: 729.644
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7295.99 SPR: 0.1
+ correction: 729.599
+m_NonNegativityConstraintThreshold20
+smallestValue: 238  m_AirThreshold: 32000
+averageBehindPatient: 7299.44 SPR: 0.1
+ correction: 729.944
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7296.96 SPR: 0.1
+ correction: 729.696
+m_NonNegativityConstraintThreshold20
+smallestValue: 238  m_AirThreshold: 32000
+averageBehindPatient: 7300.45 SPR: 0.1
+ correction: 730.045
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7301.6 SPR: 0.1
+ correction: 730.16
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7296.31 SPR: 0.1
+ correction: 729.631
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 7289.96 SPR: 0.1
+ correction: 728.996
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7300.5 SPR: 0.1
+ correction: 730.05
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7288.86 SPR: 0.1
+ correction: 728.886
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 7284.7 SPR: 0.1
+ correction: 728.47
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7287.63 SPR: 0.1
+ correction: 728.763
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7283.85 SPR: 0.1
+ correction: 728.385
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7279.93 SPR: 0.1
+ correction: 727.993
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7278.42 SPR: 0.1
+ correction: 727.842
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7273.31 SPR: 0.1
+ correction: 727.331
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7267.87 SPR: 0.1
+ correction: 726.787
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7265.53 SPR: 0.1
+ correction: 726.553
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7262.04 SPR: 0.1
+ correction: 726.204
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7258.9 SPR: 0.1
+ correction: 725.89
+m_NonNegativityConstraintThreshold20
+smallestValue: 240  m_AirThreshold: 32000
+averageBehindPatient: 7255.29 SPR: 0.1
+ correction: 725.529
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7251.78 SPR: 0.1
+ correction: 725.178
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7251.6 SPR: 0.1
+ correction: 725.16
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7246.59 SPR: 0.1
+ correction: 724.659
+m_NonNegativityConstraintThreshold20
+smallestValue: 239  m_AirThreshold: 32000
+averageBehindPatient: 7245.15 SPR: 0.1
+ correction: 724.515
+m_NonNegativityConstraintThreshold20
+smallestValue: 240  m_AirThreshold: 32000
+averageBehindPatient: 7243.94 SPR: 0.1
+ correction: 724.394
+m_NonNegativityConstraintThreshold20
+smallestValue: 242  m_AirThreshold: 32000
+averageBehindPatient: 7241.42 SPR: 0.1
+ correction: 724.142
+m_NonNegativityConstraintThreshold20
+smallestValue: 240  m_AirThreshold: 32000
+averageBehindPatient: 7239.91 SPR: 0.1
+ correction: 723.991
+m_NonNegativityConstraintThreshold20
+smallestValue: 238  m_AirThreshold: 32000
+averageBehindPatient: 7238.71 SPR: 0.1
+ correction: 723.871
+m_NonNegativityConstraintThreshold20
+smallestValue: 242  m_AirThreshold: 32000
+averageBehindPatient: 7238.96 SPR: 0.1
+ correction: 723.896
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7239.45 SPR: 0.1
+ correction: 723.945
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7239.39 SPR: 0.1
+ correction: 723.939
+m_NonNegativityConstraintThreshold20
+smallestValue: 244  m_AirThreshold: 32000
+averageBehindPatient: 7241.29 SPR: 0.1
+ correction: 724.129
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7241.7 SPR: 0.1
+ correction: 724.17
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 7240.72 SPR: 0.1
+ correction: 724.072
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7237.27 SPR: 0.1
+ correction: 723.727
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7236.28 SPR: 0.1
+ correction: 723.628
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7232.89 SPR: 0.1
+ correction: 723.289
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7230.55 SPR: 0.1
+ correction: 723.055
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7229.62 SPR: 0.1
+ correction: 722.962
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7230.34 SPR: 0.1
+ correction: 723.034
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7225.9 SPR: 0.1
+ correction: 722.59
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7224.54 SPR: 0.1
+ correction: 722.454
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7221.71 SPR: 0.1
+ correction: 722.171
+m_NonNegativityConstraintThreshold20
+smallestValue: 223  m_AirThreshold: 32000
+averageBehindPatient: 7218.29 SPR: 0.1
+ correction: 721.829
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7204.56 SPR: 0.1
+ correction: 720.456
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7198.42 SPR: 0.1
+ correction: 719.842
+m_NonNegativityConstraintThreshold20
+smallestValue: 230  m_AirThreshold: 32000
+averageBehindPatient: 7196.14 SPR: 0.1
+ correction: 719.614
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7193.05 SPR: 0.1
+ correction: 719.305
+m_NonNegativityConstraintThreshold20
+smallestValue: 230  m_AirThreshold: 32000
+averageBehindPatient: 7193.61 SPR: 0.1
+ correction: 719.361
+m_NonNegativityConstraintThreshold20
+smallestValue: 238  m_AirThreshold: 32000
+averageBehindPatient: 7196.19 SPR: 0.1
+ correction: 719.619
+m_NonNegativityConstraintThreshold20
+smallestValue: 233  m_AirThreshold: 32000
+averageBehindPatient: 7196.29 SPR: 0.1
+ correction: 719.629
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7194.57 SPR: 0.1
+ correction: 719.457
+m_NonNegativityConstraintThreshold20
+smallestValue: 238  m_AirThreshold: 32000
+averageBehindPatient: 7191.82 SPR: 0.1
+ correction: 719.182
+m_NonNegativityConstraintThreshold20
+smallestValue: 241  m_AirThreshold: 32000
+averageBehindPatient: 7191.09 SPR: 0.1
+ correction: 719.109
+m_NonNegativityConstraintThreshold20
+smallestValue: 240  m_AirThreshold: 32000
+averageBehindPatient: 7186.62 SPR: 0.1
+ correction: 718.662
+m_NonNegativityConstraintThreshold20
+smallestValue: 237  m_AirThreshold: 32000
+averageBehindPatient: 7183.95 SPR: 0.1
+ correction: 718.395
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7179.57 SPR: 0.1
+ correction: 717.957
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7178.18 SPR: 0.1
+ correction: 717.818
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7169.77 SPR: 0.1
+ correction: 716.977
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7162.58 SPR: 0.1
+ correction: 716.258
+m_NonNegativityConstraintThreshold20
+smallestValue: 228  m_AirThreshold: 32000
+averageBehindPatient: 7161.52 SPR: 0.1
+ correction: 716.152
+m_NonNegativityConstraintThreshold20
+smallestValue: 231  m_AirThreshold: 32000
+averageBehindPatient: 7157.81 SPR: 0.1
+ correction: 715.781
+m_NonNegativityConstraintThreshold20
+smallestValue: 235  m_AirThreshold: 32000
+averageBehindPatient: 7157.8 SPR: 0.1
+ correction: 715.78
+m_NonNegativityConstraintThreshold20
+smallestValue: 230  m_AirThreshold: 32000
+averageBehindPatient: 7152.08 SPR: 0.1
+ correction: 715.208
+m_NonNegativityConstraintThreshold20
+smallestValue: 228  m_AirThreshold: 32000
+averageBehindPatient: 7149.64 SPR: 0.1
+ correction: 714.964
+m_NonNegativityConstraintThreshold20
+smallestValue: 213  m_AirThreshold: 32000
+averageBehindPatient: 7148.64 SPR: 0.1
+ correction: 714.864
+m_NonNegativityConstraintThreshold20
+smallestValue: 221  m_AirThreshold: 32000
+averageBehindPatient: 7159.63 SPR: 0.1
+ correction: 715.963
+m_NonNegativityConstraintThreshold20
+smallestValue: 218  m_AirThreshold: 32000
+averageBehindPatient: 7144.25 SPR: 0.1
+ correction: 714.425
+m_NonNegativityConstraintThreshold20
+smallestValue: 217  m_AirThreshold: 32000
+averageBehindPatient: 7145.05 SPR: 0.1
+ correction: 714.505
+m_NonNegativityConstraintThreshold20
+smallestValue: 214  m_AirThreshold: 32000
+averageBehindPatient: 7142.26 SPR: 0.1
+ correction: 714.226
+m_NonNegativityConstraintThreshold20
+smallestValue: 212  m_AirThreshold: 32000
+averageBehindPatient: 7141.97 SPR: 0.1
+ correction: 714.197
+m_NonNegativityConstraintThreshold20
+smallestValue: 207  m_AirThreshold: 32000
+averageBehindPatient: 7139.06 SPR: 0.1
+ correction: 713.906
+m_NonNegativityConstraintThreshold20
+smallestValue: 214  m_AirThreshold: 32000
+averageBehindPatient: 7136.91 SPR: 0.1
+ correction: 713.691
+m_NonNegativityConstraintThreshold20
+smallestValue: 213  m_AirThreshold: 32000
+averageBehindPatient: 7137.05 SPR: 0.1
+ correction: 713.705
+m_NonNegativityConstraintThreshold20
+smallestValue: 214  m_AirThreshold: 32000
+averageBehindPatient: 7134.76 SPR: 0.1
+ correction: 713.476
+m_NonNegativityConstraintThreshold20
+smallestValue: 213  m_AirThreshold: 32000
+averageBehindPatient: 7137.41 SPR: 0.1
+ correction: 713.741
+m_NonNegativityConstraintThreshold20
+smallestValue: 212  m_AirThreshold: 32000
+averageBehindPatient: 7134.82 SPR: 0.1
+ correction: 713.482
+m_NonNegativityConstraintThreshold20
+smallestValue: 213  m_AirThreshold: 32000
+averageBehindPatient: 7134.28 SPR: 0.1
+ correction: 713.428
+m_NonNegativityConstraintThreshold20
+smallestValue: 210  m_AirThreshold: 32000
+averageBehindPatient: 7131.9 SPR: 0.1
+ correction: 713.19
+m_NonNegativityConstraintThreshold20
+smallestValue: 206  m_AirThreshold: 32000
+averageBehindPatient: 7128.55 SPR: 0.1
+ correction: 712.855
+m_NonNegativityConstraintThreshold20
+smallestValue: 216  m_AirThreshold: 32000
+averageBehindPatient: 7128.68 SPR: 0.1
+ correction: 712.868
+m_NonNegativityConstraintThreshold20
+smallestValue: 216  m_AirThreshold: 32000
+averageBehindPatient: 7125.39 SPR: 0.1
+ correction: 712.539
+m_NonNegativityConstraintThreshold20
+smallestValue: 210  m_AirThreshold: 32000
+averageBehindPatient: 7127.29 SPR: 0.1
+ correction: 712.729
+m_NonNegativityConstraintThreshold20
+smallestValue: 216  m_AirThreshold: 32000
+averageBehindPatient: 7122.65 SPR: 0.1
+ correction: 712.265
+m_NonNegativityConstraintThreshold20
+smallestValue: 221  m_AirThreshold: 32000
+averageBehindPatient: 7123.24 SPR: 0.1
+ correction: 712.324
+m_NonNegativityConstraintThreshold20
+smallestValue: 217  m_AirThreshold: 32000
+averageBehindPatient: 7122.52 SPR: 0.1
+ correction: 712.252
+m_NonNegativityConstraintThreshold20
+smallestValue: 221  m_AirThreshold: 32000
+averageBehindPatient: 7123.27 SPR: 0.1
+ correction: 712.327
+m_NonNegativityConstraintThreshold20
+smallestValue: 216  m_AirThreshold: 32000
+averageBehindPatient: 7119.99 SPR: 0.1
+ correction: 711.999
+m_NonNegativityConstraintThreshold20
+smallestValue: 213  m_AirThreshold: 32000
+averageBehindPatient: 7122.82 SPR: 0.1
+ correction: 712.282
+m_NonNegativityConstraintThreshold20
+smallestValue: 221  m_AirThreshold: 32000
+averageBehindPatient: 7122.46 SPR: 0.1
+ correction: 712.246
+m_NonNegativityConstraintThreshold20
+smallestValue: 226  m_AirThreshold: 32000
+averageBehindPatient: 7123.49 SPR: 0.1
+ correction: 712.349
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7126 SPR: 0.1
+ correction: 712.6
+m_NonNegativityConstraintThreshold20
+smallestValue: 222  m_AirThreshold: 32000
+averageBehindPatient: 7125.37 SPR: 0.1
+ correction: 712.537
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7126.94 SPR: 0.1
+ correction: 712.694
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7125.42 SPR: 0.1
+ correction: 712.542
+m_NonNegativityConstraintThreshold20
+smallestValue: 229  m_AirThreshold: 32000
+averageBehindPatient: 7122.93 SPR: 0.1
+ correction: 712.293
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7125.07 SPR: 0.1
+ correction: 712.507
+m_NonNegativityConstraintThreshold20
+smallestValue: 232  m_AirThreshold: 32000
+averageBehindPatient: 7126.82 SPR: 0.1
+ correction: 712.682
+m_NonNegativityConstraintThreshold20
+smallestValue: 236  m_AirThreshold: 32000
+averageBehindPatient: 7123.87 SPR: 0.1
+ correction: 712.387
+m_NonNegativityConstraintThreshold20
+smallestValue: 234  m_AirThreshold: 32000
+averageBehindPatient: 7094.79 SPR: 0.1
+ correction: 709.479
+m_NonNegativityConstraintThreshold20
+smallestValue: 239  m_AirThreshold: 32000
+averageBehindPatient: 7027.84 SPR: 0.1
+ correction: 702.784
+m_NonNegativityConstraintThreshold20
+smallestValue: 242  m_AirThreshold: 32000
+averageBehindPatient: 7028.97 SPR: 0.1
+ correction: 702.897
+m_NonNegativityConstraintThreshold20
+smallestValue: 250  m_AirThreshold: 32000
+averageBehindPatient: 7018.77 SPR: 0.1
+ correction: 701.877
+m_NonNegativityConstraintThreshold20
+smallestValue: 257  m_AirThreshold: 32000
+averageBehindPatient: 7025.77 SPR: 0.1
+ correction: 702.577
+m_NonNegativityConstraintThreshold20
+smallestValue: 256  m_AirThreshold: 32000
+averageBehindPatient: 7048.8 SPR: 0.1
+ correction: 704.88
+m_NonNegativityConstraintThreshold20
+smallestValue: 263  m_AirThreshold: 32000
+averageBehindPatient: 7021.73 SPR: 0.1
+ correction: 702.173
+m_NonNegativityConstraintThreshold20
+smallestValue: 253  m_AirThreshold: 32000
+averageBehindPatient: 7012.07 SPR: 0.1
+ correction: 701.207
+m_NonNegativityConstraintThreshold20
+smallestValue: 265  m_AirThreshold: 32000
+averageBehindPatient: 7005.49 SPR: 0.1
+ correction: 700.549
+m_NonNegativityConstraintThreshold20
+smallestValue: 266  m_AirThreshold: 32000
+averageBehindPatient: 7000.12 SPR: 0.1
+ correction: 700.012
+m_NonNegativityConstraintThreshold20
+smallestValue: 269  m_AirThreshold: 32000
+averageBehindPatient: 6992.24 SPR: 0.1
+ correction: 699.224
+m_NonNegativityConstraintThreshold20
+smallestValue: 261  m_AirThreshold: 32000
+averageBehindPatient: 6986.04 SPR: 0.1
+ correction: 698.604
+m_NonNegativityConstraintThreshold20
+smallestValue: 271  m_AirThreshold: 32000
+averageBehindPatient: 6984.76 SPR: 0.1
+ correction: 698.476
+m_NonNegativityConstraintThreshold20
+smallestValue: 276  m_AirThreshold: 32000
+averageBehindPatient: 6976.75 SPR: 0.1
+ correction: 697.675
+m_NonNegativityConstraintThreshold20
+smallestValue: 275  m_AirThreshold: 32000
+averageBehindPatient: 6967.62 SPR: 0.1
+ correction: 696.762
+m_NonNegativityConstraintThreshold20
+smallestValue: 283  m_AirThreshold: 32000
+averageBehindPatient: 6967.43 SPR: 0.1
+ correction: 696.743
+m_NonNegativityConstraintThreshold20
+smallestValue: 276  m_AirThreshold: 32000
+averageBehindPatient: 6963.95 SPR: 0.1
+ correction: 696.395
+m_NonNegativityConstraintThreshold20
+smallestValue: 278  m_AirThreshold: 32000
+averageBehindPatient: 6950.14 SPR: 0.1
+ correction: 695.014
+m_NonNegativityConstraintThreshold20
+smallestValue: 278  m_AirThreshold: 32000
+averageBehindPatient: 6886.79 SPR: 0.1
+ correction: 688.679
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6856.23 SPR: 0.1
+ correction: 685.623
+m_NonNegativityConstraintThreshold20
+smallestValue: 285  m_AirThreshold: 32000
+averageBehindPatient: 6801.6 SPR: 0.1
+ correction: 680.16
+m_NonNegativityConstraintThreshold20
+smallestValue: 289  m_AirThreshold: 32000
+averageBehindPatient: 6781.27 SPR: 0.1
+ correction: 678.127
+m_NonNegativityConstraintThreshold20
+smallestValue: 295  m_AirThreshold: 32000
+averageBehindPatient: 6771.82 SPR: 0.1
+ correction: 677.182
+m_NonNegativityConstraintThreshold20
+smallestValue: 285  m_AirThreshold: 32000
+averageBehindPatient: 6741.92 SPR: 0.1
+ correction: 674.192
+m_NonNegativityConstraintThreshold20
+smallestValue: 295  m_AirThreshold: 32000
+averageBehindPatient: 6717.58 SPR: 0.1
+ correction: 671.758
+m_NonNegativityConstraintThreshold20
+smallestValue: 298  m_AirThreshold: 32000
+averageBehindPatient: 6708.19 SPR: 0.1
+ correction: 670.819
+m_NonNegativityConstraintThreshold20
+smallestValue: 300  m_AirThreshold: 32000
+averageBehindPatient: 6715.98 SPR: 0.1
+ correction: 671.598
+m_NonNegativityConstraintThreshold20
+smallestValue: 298  m_AirThreshold: 32000
+averageBehindPatient: 6703.54 SPR: 0.1
+ correction: 670.354
+m_NonNegativityConstraintThreshold20
+smallestValue: 294  m_AirThreshold: 32000
+averageBehindPatient: 6690.35 SPR: 0.1
+ correction: 669.035
+m_NonNegativityConstraintThreshold20
+smallestValue: 300  m_AirThreshold: 32000
+averageBehindPatient: 6678 SPR: 0.1
+ correction: 667.8
+m_NonNegativityConstraintThreshold20
+smallestValue: 297  m_AirThreshold: 32000
+averageBehindPatient: 6670.22 SPR: 0.1
+ correction: 667.022
+m_NonNegativityConstraintThreshold20
+smallestValue: 297  m_AirThreshold: 32000
+averageBehindPatient: 6681.85 SPR: 0.1
+ correction: 668.185
+m_NonNegativityConstraintThreshold20
+smallestValue: 301  m_AirThreshold: 32000
+averageBehindPatient: 6682.7 SPR: 0.1
+ correction: 668.27
+m_NonNegativityConstraintThreshold20
+smallestValue: 300  m_AirThreshold: 32000
+averageBehindPatient: 6691.77 SPR: 0.1
+ correction: 669.177
+m_NonNegativityConstraintThreshold20
+smallestValue: 296  m_AirThreshold: 32000
+averageBehindPatient: 6702.08 SPR: 0.1
+ correction: 670.208
+m_NonNegativityConstraintThreshold20
+smallestValue: 296  m_AirThreshold: 32000
+averageBehindPatient: 6757.94 SPR: 0.1
+ correction: 675.794
+m_NonNegativityConstraintThreshold20
+smallestValue: 294  m_AirThreshold: 32000
+averageBehindPatient: 6756.16 SPR: 0.1
+ correction: 675.616
+m_NonNegativityConstraintThreshold20
+smallestValue: 293  m_AirThreshold: 32000
+averageBehindPatient: 6749.87 SPR: 0.1
+ correction: 674.987
+m_NonNegativityConstraintThreshold20
+smallestValue: 291  m_AirThreshold: 32000
+averageBehindPatient: 6746.95 SPR: 0.1
+ correction: 674.695
+m_NonNegativityConstraintThreshold20
+smallestValue: 289  m_AirThreshold: 32000
+averageBehindPatient: 6743.73 SPR: 0.1
+ correction: 674.373
+m_NonNegativityConstraintThreshold20
+smallestValue: 276  m_AirThreshold: 32000
+averageBehindPatient: 6736.57 SPR: 0.1
+ correction: 673.657
+m_NonNegativityConstraintThreshold20
+smallestValue: 287  m_AirThreshold: 32000
+averageBehindPatient: 6735.57 SPR: 0.1
+ correction: 673.557
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6731.67 SPR: 0.1
+ correction: 673.167
+m_NonNegativityConstraintThreshold20
+smallestValue: 288  m_AirThreshold: 32000
+averageBehindPatient: 6719.88 SPR: 0.1
+ correction: 671.988
+m_NonNegativityConstraintThreshold20
+smallestValue: 289  m_AirThreshold: 32000
+averageBehindPatient: 6710.64 SPR: 0.1
+ correction: 671.064
+m_NonNegativityConstraintThreshold20
+smallestValue: 286  m_AirThreshold: 32000
+averageBehindPatient: 6688.45 SPR: 0.1
+ correction: 668.845
+m_NonNegativityConstraintThreshold20
+smallestValue: 285  m_AirThreshold: 32000
+averageBehindPatient: 6642.58 SPR: 0.1
+ correction: 664.258
+m_NonNegativityConstraintThreshold20
+smallestValue: 280  m_AirThreshold: 32000
+averageBehindPatient: 6595.39 SPR: 0.1
+ correction: 659.539
+m_NonNegativityConstraintThreshold20
+smallestValue: 281  m_AirThreshold: 32000
+averageBehindPatient: 6572.91 SPR: 0.1
+ correction: 657.291
+m_NonNegativityConstraintThreshold20
+smallestValue: 278  m_AirThreshold: 32000
+averageBehindPatient: 6555.72 SPR: 0.1
+ correction: 655.572
+m_NonNegativityConstraintThreshold20
+smallestValue: 285  m_AirThreshold: 32000
+averageBehindPatient: 6530.37 SPR: 0.1
+ correction: 653.037
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 6508.23 SPR: 0.1
+ correction: 650.823
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6475.76 SPR: 0.1
+ correction: 647.576
+m_NonNegativityConstraintThreshold20
+smallestValue: 277  m_AirThreshold: 32000
+averageBehindPatient: 6429.77 SPR: 0.1
+ correction: 642.977
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6372.04 SPR: 0.1
+ correction: 637.204
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 6334.92 SPR: 0.1
+ correction: 633.492
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6303.62 SPR: 0.1
+ correction: 630.362
+m_NonNegativityConstraintThreshold20
+smallestValue: 281  m_AirThreshold: 32000
+averageBehindPatient: 6279.23 SPR: 0.1
+ correction: 627.923
+m_NonNegativityConstraintThreshold20
+smallestValue: 280  m_AirThreshold: 32000
+averageBehindPatient: 6247.92 SPR: 0.1
+ correction: 624.792
+m_NonNegativityConstraintThreshold20
+smallestValue: 281  m_AirThreshold: 32000
+averageBehindPatient: 6237.69 SPR: 0.1
+ correction: 623.769
+m_NonNegativityConstraintThreshold20
+smallestValue: 290  m_AirThreshold: 32000
+averageBehindPatient: 6238.75 SPR: 0.1
+ correction: 623.875
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6249.45 SPR: 0.1
+ correction: 624.945
+m_NonNegativityConstraintThreshold20
+smallestValue: 287  m_AirThreshold: 32000
+averageBehindPatient: 6271.15 SPR: 0.1
+ correction: 627.115
+m_NonNegativityConstraintThreshold20
+smallestValue: 286  m_AirThreshold: 32000
+averageBehindPatient: 6304.74 SPR: 0.1
+ correction: 630.474
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6340.11 SPR: 0.1
+ correction: 634.011
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6385.4 SPR: 0.1
+ correction: 638.54
+m_NonNegativityConstraintThreshold20
+smallestValue: 287  m_AirThreshold: 32000
+averageBehindPatient: 6449.05 SPR: 0.1
+ correction: 644.905
+m_NonNegativityConstraintThreshold20
+smallestValue: 287  m_AirThreshold: 32000
+averageBehindPatient: 6508.33 SPR: 0.1
+ correction: 650.833
+m_NonNegativityConstraintThreshold20
+smallestValue: 289  m_AirThreshold: 32000
+averageBehindPatient: 6560.51 SPR: 0.1
+ correction: 656.051
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6622.54 SPR: 0.1
+ correction: 662.254
+m_NonNegativityConstraintThreshold20
+smallestValue: 286  m_AirThreshold: 32000
+averageBehindPatient: 6655.06 SPR: 0.1
+ correction: 665.506
+m_NonNegativityConstraintThreshold20
+smallestValue: 287  m_AirThreshold: 32000
+averageBehindPatient: 6679.12 SPR: 0.1
+ correction: 667.912
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6723.64 SPR: 0.1
+ correction: 672.364
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6770.29 SPR: 0.1
+ correction: 677.029
+m_NonNegativityConstraintThreshold20
+smallestValue: 283  m_AirThreshold: 32000
+averageBehindPatient: 6821.61 SPR: 0.1
+ correction: 682.161
+m_NonNegativityConstraintThreshold20
+smallestValue: 285  m_AirThreshold: 32000
+averageBehindPatient: 6826 SPR: 0.1
+ correction: 682.6
+m_NonNegativityConstraintThreshold20
+smallestValue: 280  m_AirThreshold: 32000
+averageBehindPatient: 6834.61 SPR: 0.1
+ correction: 683.461
+m_NonNegativityConstraintThreshold20
+smallestValue: 277  m_AirThreshold: 32000
+averageBehindPatient: 6837.11 SPR: 0.1
+ correction: 683.711
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 6839.09 SPR: 0.1
+ correction: 683.909
+m_NonNegativityConstraintThreshold20
+smallestValue: 268  m_AirThreshold: 32000
+averageBehindPatient: 6840.23 SPR: 0.1
+ correction: 684.023
+m_NonNegativityConstraintThreshold20
+smallestValue: 281  m_AirThreshold: 32000
+averageBehindPatient: 6844.16 SPR: 0.1
+ correction: 684.416
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 6836.11 SPR: 0.1
+ correction: 683.611
+m_NonNegativityConstraintThreshold20
+smallestValue: 279  m_AirThreshold: 32000
+averageBehindPatient: 6828.5 SPR: 0.1
+ correction: 682.85
+m_NonNegativityConstraintThreshold20
+smallestValue: 283  m_AirThreshold: 32000
+averageBehindPatient: 6820.14 SPR: 0.1
+ correction: 682.014
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6767.2 SPR: 0.1
+ correction: 676.72
+m_NonNegativityConstraintThreshold20
+smallestValue: 283  m_AirThreshold: 32000
+averageBehindPatient: 6762.57 SPR: 0.1
+ correction: 676.257
+m_NonNegativityConstraintThreshold20
+smallestValue: 284  m_AirThreshold: 32000
+averageBehindPatient: 6748.01 SPR: 0.1
+ correction: 674.801
+m_NonNegativityConstraintThreshold20
+smallestValue: 282  m_AirThreshold: 32000
+averageBehindPatient: 6734.6 SPR: 0.1
+ correction: 673.46
+m_NonNegativityConstraintThreshold20
+smallestValue: 289  m_AirThreshold: 32000
+averageBehindPatient: 6724.36 SPR: 0.1
+ correction: 672.436
+m_NonNegativityConstraintThreshold20
+smallestValue: 295  m_AirThreshold: 32000
+averageBehindPatient: 6710.36 SPR: 0.1
+ correction: 671.036
+m_NonNegativityConstraintThreshold20
+smallestValue: 303  m_AirThreshold: 32000
+averageBehindPatient: 6706.81 SPR: 0.1
+ correction: 670.681
+m_NonNegativityConstraintThreshold20
+smallestValue: 303  m_AirThreshold: 32000
+averageBehindPatient: 6705.05 SPR: 0.1
+ correction: 670.505
+m_NonNegativityConstraintThreshold20
+smallestValue: 305  m_AirThreshold: 32000
+averageBehindPatient: 6707.11 SPR: 0.1
+ correction: 670.711
+m_NonNegativityConstraintThreshold20
+smallestValue: 311  m_AirThreshold: 32000
+averageBehindPatient: 6719.94 SPR: 0.1
+ correction: 671.994
+m_NonNegativityConstraintThreshold20
+smallestValue: 312  m_AirThreshold: 32000
+averageBehindPatient: 6754.46 SPR: 0.1
+ correction: 675.446
+m_NonNegativityConstraintThreshold20
+smallestValue: 318  m_AirThreshold: 32000
+averageBehindPatient: 6782.05 SPR: 0.1
+ correction: 678.205
+m_NonNegativityConstraintThreshold20
+smallestValue: 317  m_AirThreshold: 32000
+averageBehindPatient: 6804.32 SPR: 0.1
+ correction: 680.432
+m_NonNegativityConstraintThreshold20
+smallestValue: 322  m_AirThreshold: 32000
+averageBehindPatient: 6822.48 SPR: 0.1
+ correction: 682.248
+m_NonNegativityConstraintThreshold20
+smallestValue: 328  m_AirThreshold: 32000
+averageBehindPatient: 6829.43 SPR: 0.1
+ correction: 682.943
+m_NonNegativityConstraintThreshold20
+smallestValue: 329  m_AirThreshold: 32000
+averageBehindPatient: 6865.15 SPR: 0.1
+ correction: 686.515
+m_NonNegativityConstraintThreshold20
+smallestValue: 330  m_AirThreshold: 32000
+averageBehindPatient: 6892.31 SPR: 0.1
+ correction: 689.231
+m_NonNegativityConstraintThreshold20
+smallestValue: 332  m_AirThreshold: 32000
+averageBehindPatient: 6935.71 SPR: 0.1
+ correction: 693.571
+m_NonNegativityConstraintThreshold20
+smallestValue: 333  m_AirThreshold: 32000
+averageBehindPatient: 6964.86 SPR: 0.1
+ correction: 696.486
+m_NonNegativityConstraintThreshold20
+smallestValue: 328  m_AirThreshold: 32000
+averageBehindPatient: 6964.8 SPR: 0.1
+ correction: 696.48
+m_NonNegativityConstraintThreshold20
+smallestValue: 335  m_AirThreshold: 32000
+averageBehindPatient: 6964.5 SPR: 0.1
+ correction: 696.45
+m_NonNegativityConstraintThreshold20
+smallestValue: 331  m_AirThreshold: 32000
+averageBehindPatient: 6961.03 SPR: 0.1
+ correction: 696.103
+m_NonNegativityConstraintThreshold20
+smallestValue: 333  m_AirThreshold: 32000
+averageBehindPatient: 6958.73 SPR: 0.1
+ correction: 695.873
+m_NonNegativityConstraintThreshold20
+smallestValue: 337  m_AirThreshold: 32000
+averageBehindPatient: 6922.25 SPR: 0.1
+ correction: 692.225
+m_NonNegativityConstraintThreshold20
+smallestValue: 343  m_AirThreshold: 32000
+averageBehindPatient: 6870.63 SPR: 0.1
+ correction: 687.063
+m_NonNegativityConstraintThreshold20
+smallestValue: 341  m_AirThreshold: 32000
+averageBehindPatient: 6824.01 SPR: 0.1
+ correction: 682.401
+m_NonNegativityConstraintThreshold20
+smallestValue: 335  m_AirThreshold: 32000
+averageBehindPatient: 6900.56 SPR: 0.1
+ correction: 690.056
+m_NonNegativityConstraintThreshold20
+smallestValue: 337  m_AirThreshold: 32000
+averageBehindPatient: 6994.31 SPR: 0.1
+ correction: 699.431
+m_NonNegativityConstraintThreshold20
+smallestValue: 342  m_AirThreshold: 32000
+averageBehindPatient: 7007.87 SPR: 0.1
+ correction: 700.787
+m_NonNegativityConstraintThreshold20
+smallestValue: 341  m_AirThreshold: 32000
+averageBehindPatient: 7013.05 SPR: 0.1
+ correction: 701.305
+m_NonNegativityConstraintThreshold20
+smallestValue: 345  m_AirThreshold: 32000
+averageBehindPatient: 7012.55 SPR: 0.1
+ correction: 701.255
+m_NonNegativityConstraintThreshold20
+smallestValue: 338  m_AirThreshold: 32000
+averageBehindPatient: 7011.05 SPR: 0.1
+ correction: 701.105
+m_NonNegativityConstraintThreshold20
+smallestValue: 335  m_AirThreshold: 32000
+averageBehindPatient: 7018.5 SPR: 0.1
+ correction: 701.85
+m_NonNegativityConstraintThreshold20
+smallestValue: 340  m_AirThreshold: 32000
+averageBehindPatient: 7028.41 SPR: 0.1
+ correction: 702.841
+m_NonNegativityConstraintThreshold20
+smallestValue: 340  m_AirThreshold: 32000
+averageBehindPatient: 7028.41 SPR: 0.1
+ correction: 702.841
+m_NonNegativityConstraintThreshold20
+Reconstructing and writing... It took 4.18562 s
+FDKConeBeamReconstructionFilter timing:
+  Prefilter operations: 8.21152 s
+  Ramp filter: 202.624 s
+  Backprojection: 132.839 s
+Took
+Total Time: 352
+[Finished in 351.857s]

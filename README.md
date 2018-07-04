@@ -1,12 +1,7 @@
 # 4DCBCT-Code-Repository
 
-<<<<<<< HEAD
 This is the repository for the 4D Cone Beam CT Image quality and parameter optimizing Project. Carleton University Physics 2018.
 Supervisors: A.Elsayed, E.Heath, T.Xu
-=======
-This is the repository for the 4D Cone Beam CT Image quality and parameter optimizing Project. Carleton Unversity Physics 2018.
-Supervisors: E.Ali, E.Heath, T.Xu 
->>>>>>> cdee64bc71210e2fcc054eb106351d6ff844559e
 
 Sample data can be found at: sftp://tyr.physics.carleton.ca/data/data068/mwaqar/Sample%20Data/img_1.3.46.423632.1354522017101323295146.75%20copy.zip
   The Sample data contains a 4DCBCT Scan of CIRM Dynamic phantom in Cos^4 motion with a phase time of 4 seconds and tumour travel of 20mm.
